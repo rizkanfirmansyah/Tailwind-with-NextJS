@@ -28,7 +28,7 @@ export default function SkillsSection() {
             <SkillCard name="Bash Shell Configuration" level="Menengah" image="/terminal.svg" imageClassName="h-16 rounded-full" />
           </div>
           <div className="md:w-4/12 w-full px-4 pb-8">
-            <SkillCard name="Next JS" level="Pemula" image="/nextjs.svg" imageClassName="h-16" />
+            <SkillCard name="React JS" level="Pemula" image="/react.svg" imageClassName="h-16" />
           </div>
           <div className="md:w-4/12 w-full px-4 pb-8">
             <SkillCard name="Bootstrap" level="Lanjutan" image="/bootstrap.svg" imageClassName="h-16 rounded-full" />
@@ -43,7 +43,7 @@ export default function SkillsSection() {
             <SkillCard name="CSS" level="Lanjutan" image="/css.svg" imageClassName="h-16 rounded-full" />
           </div>
           <div className="md:w-4/12 w-full px-4 pb-8">
-            <SkillCard name="Nuxt JS" level="Menengah" image="/nuxtjs.svg" imageClassName="h-16" />
+            <SkillCard name="Nuxt JS" level="Pemula" image="/nuxtjs.svg" imageClassName="h-16" />
           </div>
           <div className="md:w-4/12 w-full px-4 pb-8">
             <SkillCard name="SASS/SCSS" level="Pemula" image="/sass.svg" imageClassName="h-16" />
